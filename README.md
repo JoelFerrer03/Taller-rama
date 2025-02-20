@@ -1,0 +1,1 @@
+ aplicación web para la gestión del Transmetro de Barranquilla. La aplicación incluirá módulos de registro de usuarios, consulta de rutas y horarios, así como un sistema de pago en línea. Para garantizar un desarrollo eficiente y colaborativo, debes manejar Git con branches correctamente.
